@@ -1,7 +1,7 @@
 # Coding Junction 🚀👩‍💻👨‍💻
 
 Welcome to Coding Junction, where we make learning programming collaborative and fun! 🎉
-We are a Coding Community Club in University Institute of Technology, Burdwan.
+We are a Coding Community Club at the University Institute of Technology, Burdwan.
 
 ## Our Mission 🎯
 
@@ -30,7 +30,7 @@ We are a Coding Community Club in University Institute of Technology, Burdwan.
 
 ## Contact Us 📬
 
-- **Email**: [codingjunction@example.com](mailto:email@coding-junction.in)
+- **Email**: [email@coding-junction.in](mailto:email@coding-junction.in)
 - **Twitter**: [@CodingJunction](https://twitter.com/CodingJunction)
 - **Discord**: Join our community [here](https://discord.gg/mXCsJKNtRR)
 
