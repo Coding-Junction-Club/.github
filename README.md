@@ -30,9 +30,9 @@ We are a Coding Community Club in University Institute of Technology, Burdwan.
 
 ## Contact Us 📬
 
-- **Email**: [codingjunction@example.com](mailto:codingjunction@example.com)
+- **Email**: [codingjunction@example.com](mailto:email@coding-junction.in)
 - **Twitter**: [@CodingJunction](https://twitter.com/CodingJunction)
-- **Discord**: Join our community [here](https://discord.gg/your-invite-link)
+- **Discord**: Join our community [here](https://discord.gg/mXCsJKNtRR)
 
 ## Visit our Website 🌐
 
